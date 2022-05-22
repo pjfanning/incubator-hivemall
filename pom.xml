@@ -267,7 +267,7 @@
 		<hadoop.version>2.4.0</hadoop.version>
 		<hive.version>0.13.0</hive.version>
 		<guava.version>11.0.2</guava.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<dependency.locations.enabled>false</dependency.locations.enabled>
 		<maven-enforcer.requireMavenVersion>[3.3.1,)</maven-enforcer.requireMavenVersion>
 		<surefire.version>2.19.1</surefire.version>
